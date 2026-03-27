@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 I am currently a 3rd year Software Engineering major at SJSU, with a focus on backend and fullstack applications in Python and Java. I am also exploring additional areas like AI. 
 
-Some of the things I am doing currently include working on Claire, an AI skincare app, working on BravoBall, a soccer training app, and a few projects from Software and Computer Engineering Society. I am also taking a CodePath course called Applied AI Engineering. 
+Some of the things I am doing currently include working on Claire, an AI skincare app, and working on BravoBall, a soccer training app. I am also taking a CodePath course called Applied AI Engineering. 
 
 <p align="left">
 <a href="https://linkedin.com/in/stephanie-ng-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephanie-ng-" height="30" width="40" /></a>
