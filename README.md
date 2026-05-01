@@ -19,8 +19,14 @@ I am currently a 3rd year Software Engineering major at SJSU, with a focus on ba
 
 Some of the things I am doing currently include working on Claire, an AI skincare app, and working on BravoBall, a soccer training app. I am also taking a CodePath course called Applied AI Engineering. 
 
+During the summer, I will be a software engineering intern at Veeva and an AI/ML fellow at Break Through Tech.
+
+Feel free to connect with me with my contacts below.
+
+<h3 align="left">Contacts:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stephanie-ng-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephanie-ng-" height="30" width="40" /></a>
+<p>Gmail: syng828@gmail.com</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,5 +57,7 @@ Some of the things I am doing currently include working on Claire, an AI skincar
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
+  </a>
 </p>
+
+
