@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a 3rd year Software Engineering major at SJSU, with a focus on backend and fullstack applications in Python and Java. I am also exploring additional areas like AI. 
+I am currently a senior Software Engineering major at SJSU, with a focus on backend and fullstack applications in Python and Java. I am also exploring additional areas like AI. 
 
-Some of the things I am doing currently include working on Claire, an AI skincare app, and working on BravoBall, a soccer training app. I am also taking a CodePath course called Applied AI Engineering. 
+Some of the things I worked on include working on Claire, an AI skincare app, and working on BravoBall, a soccer training app. I am also taking a CodePath course called Applied AI Engineering. 
 
-During the summer, I will be a software engineering intern at Veeva and an AI/ML fellow at Break Through Tech.
-
+During the summer, I completed an internship at Veeva and started the Break Through Tech Program.
 Feel free to connect with me with my contacts below.
 
 <h3 align="left">Contacts:</h3>
