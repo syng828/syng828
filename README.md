@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a senior Software Engineering major at SJSU, with a focus on backend and fullstack applications in Python and Java. I am also exploring additional areas like AI. 
+I am currently a senior Software Engineering major at SJSU, with a focus on backend and fullstack applications in Python and Java. I am also exploring additional areas like AI. Currently, I am working on my senior project that centralizes networking events through popular sources such as EventBrite, Instagram, and Discord. I am also doing the Break Through Tech Program and doing a project that predicts HAB events through ML.
 
 Some of the things I worked on include working on Claire, an AI skincare app, and working on BravoBall, a soccer training app. I am also taking a CodePath course called Applied AI Engineering. 
 
