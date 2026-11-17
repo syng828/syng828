@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a senior Software Engineering major at SJSU, with a focus on backend and fullstack applications in Python and Java. I am also exploring additional areas like AI. Currently, I am working on my senior project that centralizes networking events through popular sources such as EventBrite, Instagram, and Discord. I am also doing the Break Through Tech Program and doing a project that predicts HAB events through ML.
+I am currently a senior Software Engineering major at SJSU, with a focus on backend and fullstack applications in Python and Java. I am also exploring additional areas like AI. Currently, I am working on my senior project that centralizes networking events through popular sources such as EventBrite, Instagram, and Discord. I am also doing the Break Through Tech Program with a semester project that predicts HAB events through ML.
 
-Some of the things I worked on include BravoBall, a soccer training app and a few hackathon projects such as Pantri, connecting people to food pantries, and TraceAI that records brain response to social media clips with Meta AI to help video editors. I am also taking a CodePath course called Applied AI Engineering. 
+Some of the things I worked on include BravoBall, a soccer training app and a few hackathon projects such as Pantri, connecting people to food pantries, and TraceAI that records brain response to social media clips with Meta AI to help video editors. I also took a CodePath course called Applied AI Engineering. 
 
 During the summer, I completed an internship at Veeva and started the Break Through Tech Program.
 Feel free to connect with me with my contacts below.
